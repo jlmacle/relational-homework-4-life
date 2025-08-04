@@ -2,5 +2,6 @@
 
 Definition of "done"
 * Accessibility (incl. runnable offline on legacy computer)
-* A companion app to a kanban board
+* Companion app to a kanban board
+* Bridge building and nurturing of conditions easing bridge building
 * (to be completed)
